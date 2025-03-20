@@ -8,4 +8,3 @@ elif score >= 70:
 elif score >= 60:
     print("You have bagged GRADE D. NEED TO WORK HARD")
 else:
-    print("You have bagged GRADE E. WORK HARD!!!")
