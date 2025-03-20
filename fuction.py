@@ -7,3 +7,5 @@ def medicine_eligibility(age, weight):
        return "Sorry!This medicine can't be given to you."
 age = int(input("Please enter your age: "))
 weight = int(input("weight(kg): "))
+result = medicine_eligibility(age, weight)
+print(result)
